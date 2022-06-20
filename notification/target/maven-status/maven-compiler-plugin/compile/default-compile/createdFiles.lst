@@ -1,0 +1,8 @@
+br/com/ramagalhaes/notification/Notification$NotificationBuilder.class
+br/com/ramagalhaes/notification/NotificationService.class
+br/com/ramagalhaes/notification/rabbitmq/NotificationConsumer.class
+br/com/ramagalhaes/notification/Notification.class
+br/com/ramagalhaes/notification/NotificationConfig.class
+br/com/ramagalhaes/notification/NotificationController.class
+br/com/ramagalhaes/notification/NotificationRepository.class
+br/com/ramagalhaes/notification/NotificationApplication.class

@@ -1,0 +1,7 @@
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/NotificationRepository.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/Notification.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/rabbitmq/NotificationConsumer.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/NotificationController.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/NotificationApplication.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/NotificationService.java
+/home/raphael/Desktop/projects/microservices/notification/src/main/java/br/com/ramagalhaes/notification/NotificationConfig.java

@@ -1,0 +1,4 @@
+br/com/ramagalhaes/clients/notification/NotificationRequest.class
+br/com/ramagalhaes/clients/notification/NotificationClient.class
+br/com/ramagalhaes/clients/fraud/FraudClient.class
+br/com/ramagalhaes/clients/fraud/FraudCheckResponse.class

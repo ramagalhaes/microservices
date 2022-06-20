@@ -1,0 +1,7 @@
+br/com/ramagalhaes/customer/CustomerService.class
+br/com/ramagalhaes/customer/CustomerRepository.class
+br/com/ramagalhaes/customer/Customer.class
+br/com/ramagalhaes/customer/Customer$CustomerBuilder.class
+br/com/ramagalhaes/customer/CustomerController.class
+br/com/ramagalhaes/customer/CustomerRegistrationRequest.class
+br/com/ramagalhaes/customer/CustomerApplication.class

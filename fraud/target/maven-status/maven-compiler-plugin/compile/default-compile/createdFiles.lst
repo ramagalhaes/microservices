@@ -1,0 +1,6 @@
+br/com/ramagalhaes/fraud/FraudCheckService.class
+br/com/ramagalhaes/fraud/FraudApplication.class
+br/com/ramagalhaes/fraud/FraudCheckHistory.class
+br/com/ramagalhaes/fraud/FraudCheckHistoryRepository.class
+br/com/ramagalhaes/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+br/com/ramagalhaes/fraud/FraudCheckController.class
