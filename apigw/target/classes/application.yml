@@ -4,7 +4,6 @@ server:
 spring:
   application:
     name: api-gateway
-    title: api-gateway
   zipkin:
     base-url: http://localhost:9411
   cloud:
